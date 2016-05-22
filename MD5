@@ -1,0 +1,12 @@
+f9b41c8d14f330d1562d607c9716f93e *DESCRIPTION
+bbe1b247f01aa39fbcb28ff83456ec45 *NAMESPACE
+858bbbf403075009f609fa38b1bf7726 *R/aco.R
+ea373bf015ce3263475cf057d515c406 *R/autoSEM.R
+6a57fd9df66b5e4c237ed056811aaeb5 *R/multFac.R
+b23097d9cbb48f7b7fe43e0bf44a7a26 *R/summary.R
+5f0190eacd9880ecdec132940c849795 *R/tabu.R
+3083001d4d3fa6bb4d1bad4cec7c34f8 *R/trace.R
+9d46662e7ff2c56e5d052311e939e6b5 *README.md
+51a7d3bb4d1ba4f44646edc72fae8100 *man/autoSEM.Rd
+663edc66ef8ecfe3e79c74011d3ff821 *man/multFac.Rd
+fca9a4f2be2e43de0f1f723b0cb027f6 *man/summary.autoSEM.Rd
